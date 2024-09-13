@@ -1,0 +1,25 @@
+ button {
+    background-color: rgb(28, 170, 170);
+    color: rgb(69, 63, 25);
+    width: flex;
+ }
+   
+    
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
+
+main{
+    text-decoration: center;
+    max-width: 90%;
+}
+
+img{
+    max-width: 600px;
+    max-height: 300px;
+    margin-left: 400px;
+}
